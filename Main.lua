@@ -1,6 +1,6 @@
 -- ============================================================
---   KYZENO X PANEL  v3.0  |  LocalScript
---   Place in: StarterPlayerScripts
+--   KYZENO X PANEL  v3.0  |  UNIVERSAL SCRIPT 
+--   VERSION: V3 TEST EDITION --- FOR TEST
 -- ============================================================
 
 local Players          = game:GetService("Players")
